@@ -4,6 +4,7 @@
 # b: Desired width/length
 # c: number of stitches to cast on or rows to knit
 
+
 def gauge(a,b,c):
     answer = 0
     c = (a / 10) * b
